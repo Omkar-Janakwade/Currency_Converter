@@ -37,4 +37,4 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/Omkar-Janakwade/currency-converter.git
 
    ## Go to
-   Play Rock Paper Scissors
+      <a href="https://omkar-janakwade.github.io/Currency_Converter/Index.html">Currency_Converter</a>
