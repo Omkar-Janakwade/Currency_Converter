@@ -36,5 +36,5 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/Omkar-Janakwade/currency-converter.git
 
-   ## Go to
+### Go to
       <a href="https://omkar-janakwade.github.io/Currency_Converter/Index.html">Currency_Converter</a>
